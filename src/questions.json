@@ -1,7 +1,15 @@
 {
     "beginner": [
         {
-            "question": "blankIch blankeine",
+            "question": "Ich blank ein blank",
+            "answer": ["bin", "junge"]
+        },
+        {
+            "question": "Ich blank ein blank",
+            "answer": ["bin", "junge"] 
+        },
+        {
+            "question": "Ich blank ein blank",
             "answer": ["bin", "junge"]
         }
     ]
